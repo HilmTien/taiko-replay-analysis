@@ -1,0 +1,6 @@
+1: normal alternate
+2: alternate with holddown
+3: normal finishers
+4: weird finishers
+5: singletap
+6: burst with finisher
